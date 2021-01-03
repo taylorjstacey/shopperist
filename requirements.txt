@@ -1,0 +1,4 @@
+todoist-python==8.1.1
+click==7.1.2
+recipe_scrapers==12.0.0
+validators==0.18.2
